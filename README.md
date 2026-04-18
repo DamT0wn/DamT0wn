@@ -1,4 +1,4 @@
-<!-- BANNER -->!
+<!-- BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Hi,%20I'm%20Utkarsh%20👋&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descColor=8b949e" width="100%" />
 </div>
